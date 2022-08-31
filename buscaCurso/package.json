@@ -1,0 +1,14 @@
+{
+  "name": "buscacurso",
+  "version": "1.0.0",
+  "description": "Buscar curso no Alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Leandro Ferraz",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.6.0"
+  }
+}
